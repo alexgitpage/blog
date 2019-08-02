@@ -13,12 +13,13 @@
 
 ## 依時間排序
 
-`2019-08-1`  [<Github>將blog推向Github](https://github.com/alexgitpage/blog/issues/1)   
-
+`2019-08-2`  [<Github>從Git到Github與terminal](https://github.com/alexgitpage/blog/issues/2)   
+`2019-08-1`  [<Github>將blog推向Github](https://github.com/alexgitpage/blog/issues/1)
 
 ## 依分類排序
 
 ### JavaScript
+`2019-08-2`  [<Github>從Git到Github與terminal](https://github.com/alexgitpage/blog/issues/2)   
 `2019-08-1`  [<Github>將blog推向Github](https://github.com/alexgitpage/blog/issues/1)  
 
 
