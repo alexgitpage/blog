@@ -13,13 +13,17 @@
 
 ## 專案時間
 
+`2019-08-05 ~ 2019-08-05`  [<Javascript>行與影: 資料型別data type](https://github.com/alexgitpage/blog/issues/3)   
 `2019-08-2 ~ 2019-08-04`  [<Github>從Git到Github與terminal](https://github.com/alexgitpage/blog/issues/2)   
-`2019-08-1`  [<Github>將blog推向Github](https://github.com/alexgitpage/blog/issues/1)
+`2019-08-1 ~ 2019-08-1`  [<Github>將blog推向Github](https://github.com/alexgitpage/blog/issues/1)
 
 ## 依分類排序
 
 ### JavaScript
+`2019-08-05 ~ 2019-08-05`  [<Javascript>行與影: 資料型別data type](https://github.com/alexgitpage/blog/issues/3)  
+
+### Github
 `2019-08-2 ~ 2019-08-04`  [<Github>從Git到Github與terminal](https://github.com/alexgitpage/blog/issues/2)   
-`2019-08-1`  [<Github>將blog推向Github](https://github.com/alexgitpage/blog/issues/1)  
+`2019-08-1 ~ 2019-08-1`  [<Github>將blog推向Github](https://github.com/alexgitpage/blog/issues/1)  
 
 
