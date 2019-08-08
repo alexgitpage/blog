@@ -13,6 +13,7 @@
 
 ## 專案時間
 
+`2019-08-08 ~ 2019-08-08`  [<Javascript>行與影: 變數Variables、值Value](https://github.com/alexgitpage/blog/issues/5)
 `2019-08-06 ~ 2019-08-06`  [<Github>Command練習進化之路](https://github.com/alexgitpage/blog/issues/4)  
 `2019-08-05 ~ 2019-08-07`  [<Javascript>行與影: 資料型別data type](https://github.com/alexgitpage/blog/issues/3)   
 `2019-08-02 ~ 2019-08-04`  [<Github>從Git到Github與terminal](https://github.com/alexgitpage/blog/issues/2)   
@@ -21,6 +22,7 @@
 ## 依分類排序
 
 ### JavaScript
+`2019-08-08 ~ 2019-08-08`  [<Javascript>行與影: 變數Variables、值Value](https://github.com/alexgitpage/blog/issues/5)
 `2019-08-05 ~ 2019-08-07`  [<Javascript>行與影: 資料型別data type](https://github.com/alexgitpage/blog/issues/3)  
 
 ### Github
