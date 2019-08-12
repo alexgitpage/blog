@@ -23,7 +23,7 @@
 ## 依分類排序
 
 ### JavaScript
-`2019-08-10 ~ 2019-08-11`  [<Javascript>形與影: Operator運算子](https://github.com/alexgitpage/blog/issues/7)  
+`2019-08-10 ~ 2019-08-12`  [<Javascript>形與影: Operator運算子](https://github.com/alexgitpage/blog/issues/7)  
 `2019-08-08 ~ 2019-08-08`  [<Javascript>形與影: 變數Variables、值Value](https://github.com/alexgitpage/blog/issues/5)  
 `2019-08-05 ~ 2019-08-07`  [<Javascript>形與影: 資料型別data type](https://github.com/alexgitpage/blog/issues/3)  
 
