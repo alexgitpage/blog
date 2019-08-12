@@ -12,7 +12,7 @@
 # 文章列表
 
 ## 專案時間
-`2019-08-10 ~ 2019-08-11`  [<Javascript>形與影: Operator運算子](https://github.com/alexgitpage/blog/issues/7)  
+`2019-08-10 ~ 2019-08-12`  [<Javascript>形與影: Operator運算子](https://github.com/alexgitpage/blog/issues/7)  
 `2019-08-09 ~ 2019-08-09`  [<HTML&CSS>Bootstrap官方起手式](https://github.com/alexgitpage/blog/issues/6)  
 `2019-08-08 ~ 2019-08-08`  [<Javascript>形與影: 變數Variables、值Value](https://github.com/alexgitpage/blog/issues/5)  
 `2019-08-06 ~ 2019-08-06`  [<Github>Command練習進化之路](https://github.com/alexgitpage/blog/issues/4)  
