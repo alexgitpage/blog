@@ -12,7 +12,8 @@
 # 文章列表
 
 ## 專案時間
-`2019-08-14 ~ 2019-08-15`  [<Javascript>形與影: if else if else](https://github.com/alexgitpage/blog/issues/8)  
+`2019-08-16 ~ 2019-08-16`  [<Javascript>形與影: loop: for while](https://github.com/alexgitpage/blog/issues/9)  
+`2019-08-14 ~ 2019-08-15`  [<Javascript>形與影: flow control: if else if else](https://github.com/alexgitpage/blog/issues/8)  
 `2019-08-10 ~ 2019-08-13`  [<Javascript>形與影: Operator運算子](https://github.com/alexgitpage/blog/issues/7)  
 `2019-08-09 ~ 2019-08-09`  [<HTML&CSS>Bootstrap官方起手式](https://github.com/alexgitpage/blog/issues/6)  
 `2019-08-08 ~ 2019-08-08`  [<Javascript>形與影: 變數Variables、值Value](https://github.com/alexgitpage/blog/issues/5)  
@@ -24,7 +25,8 @@
 ## 依分類排序
 
 ### JavaScript
-`2019-08-14 ~ 2019-08-15`  [<Javascript>形與影: if else if else](https://github.com/alexgitpage/blog/issues/8)  
+`2019-08-16 ~ 2019-08-16`  [<Javascript>形與影: loop: for while](https://github.com/alexgitpage/blog/issues/9)  
+`2019-08-14 ~ 2019-08-15`  [<Javascript>形與影: flow control: if else if else](https://github.com/alexgitpage/blog/issues/8)  
 `2019-08-10 ~ 2019-08-13`  [<Javascript>形與影: Operator運算子](https://github.com/alexgitpage/blog/issues/7)  
 `2019-08-08 ~ 2019-08-08`  [<Javascript>形與影: 變數Variables、值Value](https://github.com/alexgitpage/blog/issues/5)  
 `2019-08-05 ~ 2019-08-07`  [<Javascript>形與影: 資料型別data type](https://github.com/alexgitpage/blog/issues/3)  
