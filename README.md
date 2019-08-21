@@ -12,7 +12,7 @@
 # 文章
 
 ## 專案時間
-`2019-08-18 ~ 2019-08-18`  [<Javascript>let, const, 應該避免var](https://github.com/alexgitpage/blog/issues/11)   
+`2019-08-18 ~ 2019-08-21`  [<Javascript>let, const, 應該避免var](https://github.com/alexgitpage/blog/issues/11)   
 `2019-08-17 ~ 2019-08-17`  [<Web API>什麼是API](https://github.com/alexgitpage/blog/issues/10)   
 `2019-08-16 ~ 2019-08-16`  [<Javascript>形與影: loop: for while](https://github.com/alexgitpage/blog/issues/9)  
 `2019-08-14 ~ 2019-08-15`  [<Javascript>形與影: flow control: if else if else](https://github.com/alexgitpage/blog/issues/8)  
@@ -27,7 +27,7 @@
 ## 依分類排序
 
 ### JavaScript
-`2019-08-18 ~ 2019-08-18`  [<Javascript>let, const, 應該避免var](https://github.com/alexgitpage/blog/issues/11) 
+`2019-08-18 ~ 2019-08-21`  [<Javascript>let, const, 應該避免var](https://github.com/alexgitpage/blog/issues/11) 
 `2019-08-16 ~ 2019-08-16`  [<Javascript>形與影: loop: for while](https://github.com/alexgitpage/blog/issues/9)  
 `2019-08-14 ~ 2019-08-15`  [<Javascript>形與影: flow control: if else if else](https://github.com/alexgitpage/blog/issues/8)  
 `2019-08-10 ~ 2019-08-13`  [<Javascript>形與影: Operator運算子](https://github.com/alexgitpage/blog/issues/7)  
