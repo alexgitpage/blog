@@ -12,6 +12,7 @@
 # 文章
 
 ## 專案時間
+`2019-08-28 ~ 2019-08-28`  [<Web expansion>Full Page Screen Capture](https://github.com/alexgitpage/blog/issues/14)  
 `2019-08-25 ~ 2019-08-26`  [<Javascript>LHS FHS左左右右](https://github.com/alexgitpage/blog/issues/13)   
 `2019-08-24 ~ 2019-08-24`  [<Javascript>Closure閉包: 內包包紅豆，外包包閉包?!](https://github.com/alexgitpage/blog/issues/12)   
 `2019-08-18 ~ 2019-08-22`  [<Javascript>let, const, 應該避免var](https://github.com/alexgitpage/blog/issues/11)   
@@ -48,4 +49,7 @@
 
 ### HTML&CSS
 `2019-08-09 ~ 2019-08-09`  [<HTML&CSS>Bootstrap官方起手式](https://github.com/alexgitpage/blog/issues/6)  
+
+### Web expansion
+`2019-08-28 ~ 2019-08-28`  [<Web expansion>Full Page Screen Capture](https://github.com/alexgitpage/blog/issues/14)  
 
